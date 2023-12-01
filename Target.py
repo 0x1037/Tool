@@ -29,4 +29,4 @@ def spider_url(url, keyword):
 # Example usage:
 url = input("Enter Your Target: ")
 kword = input("Enter The Keyword: ")
-spider_url(url, "google")
+spider_url(url, "kword")
